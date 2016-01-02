@@ -1,0 +1,18 @@
+<%= form_for :station, url: stations_path do |f| %>
+<p>
+  <%= f.label :name %><br>
+  <%= f.text_field :name %>
+</p>
+
+<p>
+  <%= f.label :lat %><br>
+  <%= f.text_field :lat %>
+</p>
+<p>
+ <%= f.label :long %><br>
+ <%= f.text_field :long %><br>
+</p>
+<p>
+  <%= f.submit %>
+</p>
+<% end %>
