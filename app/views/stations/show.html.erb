@@ -1,14 +1,7 @@
-<p>
-  <strong>Name:</strong>
-  <%= @station.name %>
-</p>
- 
-<p>
-  <strong>Lat:</strong>
-  <%= @station.lat %>
-</p>
-
-<p>
-  <strong>Long:</strong>
-  <%= @station.long %>
-</p>
+<ul>
+  <% @http_party_json.each do |product| %>
+      <% event.each do |e| %>
+          <li><%=h e['Products'].each do |product|; product['Name'] %></li>
+      <% end %>
+  <% end %>
+</ul>

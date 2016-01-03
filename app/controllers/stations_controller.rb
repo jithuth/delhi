@@ -1,6 +1,8 @@
 require 'rubygems'
 require 'json'
-require 'net/http' 
+require 'net/http'
+require 'pp'  
+require 'httparty'
 
  class StationsController < ApplicationController
  	respond_to :json, :html
@@ -27,15 +29,34 @@ require 'net/http'
 	end
 
 	def show
-		source = "https://www.kimonolabs.com/api/7dii3fmo?apikey=3ORCvxPPDqCAE1cwoSI8gyVy0wsAobLp"
-        @data = JSON.parse(JSON.load(URI.parse(source))
-        # msg = { :stations => @data }
-        render :json @data
+		@response = HTTParty.get("http://rubygems.org/api/v1/versions/httparty.json")
+		@result = @response.body
+		respond_to do |format|
+   			format.json { render :json => JSON.parse(@result) }
+   			format.html { render "show.html.erb" }
+		end
+
+
+
+
+
+
+		# @result = HTTParty.get("http://rubygems.org/api/v1/versions/httparty.json")
+		# response = Net::HTTP.get_response(URI.parse($usaGovURI))
+
+		# http_party_json = JSON.parse(@response.body)
+		# source = "https://www.kimonolabs.com/api/7dii3fmo?apikey=3ORCvxPPDqCAE1cwoSI8gyVy0wsAobLp"
+  #       empls = JSON.parse(JSON.load(URI.parse(source))
+  #       # msg = { :stations => @data }
+  #       render :json @data
         # @da
 		# @station = Station.find(params[:id])
 		# response = Net::HTTP.get_response(URI.parse($usaGovURI))
   #   	data = response.body
   #   	hash = JSON.parse(data)
+  #   	pp hash
+  #   	console.log() 
+
   #   	# logger.debug params[""]
   #   	# render :text => hash[:results].first["stations_data"].first["stations_name"].first["text"]
 

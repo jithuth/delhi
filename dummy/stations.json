@@ -1,0 +1,826 @@
+{
+"results": {
+        "stations_data": [
+            {
+                "index": 1,
+                "layout": "Elevated",
+                "text": "Dilshad Garden"
+        },
+            {
+                "index": 2,
+                "layout": "Elevated",
+                "text": "Jhil Mil"
+        },
+            {
+                "index": 3,
+                "layout": "Elevated",
+                "text": "Mansarovar Park"
+        },
+            {
+                "index": 4,
+                "layout": "At Grade",
+                "text": "Shahdara"
+        },
+            {
+                "index": 5,
+                "layout": "Elevated",
+                "text": "Welcome"
+        },
+            {
+                "index": 6,
+                "layout": "Elevated",
+                "text": "Seelampur"
+        },
+            {
+                "index": 7,
+                "layout": "At Grade",
+                "text": "Shastri Park"
+        },
+            {
+                "index": 8,
+                "layout": "Elevated",
+                "text": "Kashmere Gate"
+        },
+            {
+                "index": 9,
+                "layout": "Elevated",
+                "text": "Tis Hazari"
+            },
+            {
+                "index": 10,
+                "layout": "Elevated",
+                "text": "Pul Bangash"
+            },
+            {
+                "index": 11,
+                "layout": "Elevated",
+                "text": "Pratap Nagar"
+            },
+            {
+                "index": 12,
+                "layout": "Elevated",
+                "text": "Shastri Nagar"
+            },
+            {
+                "index": 13,
+                "layout": "Elevated",
+                "text": "Inder Lok"
+            },
+            {
+                "index": 14,
+                "layout": "Elevated",
+                "text": "Kanhaiya Nagar"
+            },
+            {
+                "index": 15,
+                "layout": "Elevated",
+                "text": "Keshav Puram"
+            },
+            {
+                "index": 16,
+                "layout": "Elevated",
+                "text": "Netaji Subhash Place"
+            },
+            {
+                "index": 17,
+                "layout": "Elevated",
+                "text": "Kohat Enclave"
+           	},
+            {
+                "index": 18,
+                "layout": "Elevated",
+                "text": "Pitam Pura"
+            },
+            {
+                "index": 19,
+                "layout": "Elevated",
+                "text": "Rohini East"
+            },
+            {
+                "index": 20,
+                "layout": "Elevated",
+                "text": "Rohini West"
+            },
+            {
+                "index": 21,
+                "layout": "Elevated",
+                "text": "Rithala"
+            },
+            {
+                "index": 22,
+                "layout": "Elevated",
+                "text": "Jahangirpuri"
+            },
+            {
+                "index": 23,
+                "layout": "Elevated",
+                "text": "Adarsh Nagar"
+            },
+            {
+                "index": 24,
+                "layout": "Elevated",
+                "text": "Azadpur"
+            },
+            {
+                "index": 25,
+                "layout": "Elevated",
+                "text": "Model Town"
+            },
+            {
+                "index": 26,
+                "layout": "Underground",
+                "text": "G.T.B. Nagar"
+            },
+            {
+                "index": 27,
+                "layout": "Underground",
+                "text": "Vishwavidyalaya"
+            },
+            {
+                "index": 28,
+                "layout": "Underground",
+                "text": "Rajiv Chowk"
+            },
+            {
+                "index": 29,
+                "layout": "Underground",
+                "text": "Vidhan Sabha"
+            },
+            {
+                "index": 30,
+                "layout": "Underground",
+                "text": "New Delhi"
+            },
+            {
+                "index": 31,
+                "layout": "Underground",
+                "text": "Civil Lines"
+            },
+            {
+                "index": 32,
+                "layout": "Elevated",
+                "text": "Kashmere Gate"
+            },
+            {
+                "index": 33,
+                "layout": "Underground",
+                "text": "Chandni Chowk"
+            },
+            {
+                "index": 34,
+                "layout": "Underground",
+                "text": "Chawri Bazar"
+            },
+            {
+                "index": 35,
+                "layout": "Underground",
+                "text": "Patel Chowk"
+            },
+            {
+                "index": 36,
+                "layout": "Underground",
+                "text": "Central Secretariat"
+            },
+            {
+                "index": 37,
+                "layout": "Underground",
+                "text": "Udyog Bhawan"
+            },
+            {
+                "index": 38,
+                "layout": "Underground",
+                "text": "Race Course"
+            },
+            {
+                "index": 39,
+                "layout": "Underground",
+                "text": "Jorbagh"
+            },
+            {
+                "index": 40,
+                "layout": "Underground",
+                "text": "INA"
+            },
+            {
+                "index": 41,
+                "layout": "Underground",
+                "text": "AIIMS"
+            },
+            {
+                "index": 42,
+                "layout": "Underground",
+                "text": "Green Park"
+            },
+            {
+                "index": 43,
+                "layout": "Underground",
+                "text": "Hauz Khas"
+            },
+            {
+                "index": 44,
+                "layout": "Underground",
+                "text": "Malviya Nagar"
+            },
+            {
+                "index": 45,
+                "layout": "Underground",
+                "text": "Saket"
+            },
+            {
+                "index": 46,
+                "layout": "Elevated",
+                "text": "Qutab Minar"
+            },
+            {
+                "index": 47,
+                "layout": "Elevated",
+                "text": "Chhattarpur"
+            },
+            {
+                "index": 48,
+                "layout": "Elevated",
+                "text": "Sultanpur"
+            },
+            {
+                "index": 49,
+                "layout": "Elevated",
+                "text": "Ghitorni"
+            },
+            {
+                "index": 50,
+                "layout": "Elevated",
+                "text": "Arjan Garh"
+            },
+            {
+                "index": 51,
+                "layout": "Elevated",
+                "text": "Guru Dronacharya"
+            },
+            {
+                "index": 52,
+                "layout": "Elevated",
+                "text": "Sikandarpur"
+            },
+            {
+                "index": 53,
+                "layout": "Elevated",
+                "text": "MG Road"
+            },
+            {
+                "index": 54,
+                "layout": "Elevated",
+                "text": "IFFCO Chowk"
+            },
+            {
+                "index": 55,
+                "layout": "Elevated",
+                "text": "Huda City Centre"
+            },
+            {
+                "index": 56,
+                "layout": "Elevated",
+                "text": "Dwarka Sec-21"
+            },
+            {
+                "index": 57,
+                "layout": "Elevated",
+                "text": "Dwarka Sec-08"
+            },
+            {
+                "index": 58,
+                "layout": "Elevated",
+                "text": "Dwarka Sec-09"
+            },
+            {
+                "index": 59,
+                "layout": "Elevated",
+                "text": "Dwarka Sec-10"
+            },
+            {
+                "index": 60,
+                "layout": "Elevated",
+                "text": "Dwarka Sec-11"
+            },
+            {
+                "index": 61,
+                "layout": "Elevated",
+                "text": "Dwarka Sec-12"
+            },
+            {
+                "index": 62,
+                "layout": "Elevated",
+                "text": "Dwarka Sec-13"
+            },
+            {
+                "index": 63,
+                "layout": "Elevated",
+                "text": "Dwarka Sec-14"
+            },
+            {
+                "index": 64,
+                "layout": "Elevated",
+                "text": "Dwarka"
+            },
+            {
+                "index": 65,
+                "layout": "Elevated",
+                "text": "Dwarka Mor"
+            },
+            {
+                "index": 66,
+                "layout": "Elevated",
+                "text": "Nawada"
+            },
+            {
+                "index": 67,
+                "layout": "Elevated",
+                "text": "Uttam Nagar West"
+            },
+            {
+                "index": 68,
+                "layout": "Elevated",
+                "text": "Uttam Nagar East"
+            },
+            {
+                "index": 69,
+                "layout": "Elevated",
+                "text": "Janak Puri West"
+            },
+            {
+                "index": 70,
+                "layout": "Elevated",
+                "text": "Janak Puri East"
+            },
+            {
+                "index": 71,
+                "layout": "Elevated",
+                "text": "Tilak Nagar"
+            },
+            {
+                "index": 72,
+                "layout": "Elevated",
+                "text": "Subhash Nagar"
+            },
+            {
+                "index": 73,
+                "layout": "Elevated",
+                "text": "Tagore Garden"
+            },
+            {
+                "index": 74,
+                "layout": "Elevated",
+                "text": "Rajouri Garden"
+            },
+            {
+                "index": 75,
+                "layout": "Elevated",
+                "text": "Ramesh Nagar"
+            },
+            {
+                "index": 76,
+                "layout": "Elevated",
+                "text": "Moti Nagar"
+            },
+            {
+                "index": 77,
+                "layout": "Elevated",
+                "text": "Kirti Nagar"
+            },
+            {
+                "index": 78,
+                "layout": "Elevated",
+                "text": "Shadipur"
+            },
+            {
+                "index": 79,
+                "layout": "Elevated",
+                "text": "Patel Nagar"
+            },
+            {
+                "index": 80,
+                "layout": "Elevated",
+                "text": "Rajendra Place"
+            },
+            {
+                "index": 81,
+                "layout": "Elevated",
+                "text": "Karol Bagh"
+            },
+            {
+                "index": 82,
+                "layout": "Elevated",
+                "text": "Jhandewalan"
+            },
+            {
+                "index": 83,
+                "layout": "Elevated",
+                "text": "R K Ashram Marg"
+            },
+            {
+                "index": 84,
+                "layout": "Underground",
+                "text": "Rajiv Chowk"
+            },
+            {
+                "index": 85,
+                "layout": "Underground",
+                "text": "Barakhamba"
+            },
+            {
+                "index": 86,
+                "layout": "Underground",
+                "text": "Mandi House"
+            },
+            {
+                "index": 87,
+                "layout": "Elevated",
+                "text": "Pragati Maidan"
+            },
+            {
+                "index": 88,
+                "layout": "Elevated",
+                "text": "Indraprastha"
+            },
+            {
+                "index": 89,
+                "layout": "At Grade",
+                "text": "Yamuna Bank"
+            },
+            {
+                "index": 90,
+                "layout": "Elevated",
+                "text": "Akshardham"
+            },
+            {
+                "index": 91,
+                "layout": "Elevated",
+                "text": "Mayur Vihar Phase-1"
+            },
+            {
+                "index": 92,
+                "layout": "Elevated",
+                "text": "Mayur Vihar Extention"
+            },
+            {
+                "index": 93,
+                "layout": "Elevated",
+                "text": "New Ashok Nagar"
+            },
+            {
+                "index": 94,
+                "layout": "Elevated",
+                "text": "Noida Sector-15"
+            },
+            {
+                "index": 95,
+                "layout": "Elevated",
+                "text": "Noida Sector-16"
+            },
+            {
+                "index": 96,
+                "layout": "Elevated",
+                "text": "Noida Sector-18"
+            },
+            {
+                "index": 97,
+                "layout": "Elevated",
+                "text": "Botanical Garden"
+            },
+            {
+                "index": 98,
+                "layout": "Elevated",
+                "text": "Golf Course"
+            },
+            {
+                "index": 99,
+                "layout": "Elevated",
+                "text": "Noida City Center"
+            },
+            {
+                "index": 100,
+                "layout": "Underground",
+                "text": "New Delhi-Airport Express"
+            },
+            {
+                "index": 101,
+                "layout": "Underground",
+                "text": "Shivaji Stadium"
+            },
+            {
+                "index": 102,
+                "layout": "Elevated",
+                "text": "Dhaula Kuan"
+            },
+            {
+                "index": 103,
+                "layout": "Underground",
+                "text": "Delhi Aero City"
+            },
+            {
+                "index": 104,
+                "layout": "Underground",
+                "text": "IGI Airport"
+            },
+            {
+                "index": 105,
+                "layout": "Elevated",
+                "text": "Dwarka Sec-21-Airport"
+            },
+            {
+                "index": 106,
+                "layout": "Elevated",
+                "text": "Inder Lok"
+            },
+            {
+                "index": 107,
+                "layout": "Elevated",
+                "text": "Ashok Park Main"
+            },
+            {
+                "index": 108,
+                "layout": "Elevated",
+                "text": "Punjabi Bagh"
+            },
+            {
+                "index": 109,
+                "layout": "Elevated",
+                "text": "Shivaji Park"
+            },
+            {
+                "index": 110,
+                "layout": "Elevated",
+                "text": "Madi Pur"
+            },
+            {
+                "index": 111,
+                "layout": "Elevated",
+                "text": "Paschim Vihar (East)"
+            },
+            {
+                "index": 112,
+                "layout": "Elevated",
+                "text": "Paschim Vihar (West)"
+            },
+            {
+                "index": 113,
+                "layout": "Elevated",
+                "text": "Peera Garhi"
+            },
+            {
+                "index": 114,
+                "layout": "Elevated",
+                "text": "Udyog Nagar"
+            },
+            {
+                "index": 115,
+                "layout": "Elevated",
+                "text": "Surajmal Stadium"
+            },
+            {
+                "index": 116,
+                "layout": "Elevated",
+                "text": "Nangloi"
+        },
+            {
+                "index": 117,
+                "layout": "Elevated",
+                "text": "Nangloi Rly Station"
+            },
+            {
+                "index": 118,
+                "layout": "Elevated",
+                "text": "Rajdhani Park"
+            },
+            {
+                "index": 119,
+                "layout": "Elevated",
+                "text": "Mundka"
+            },
+            {
+                "index": 120,
+                "layout": "Elevated",
+                "text": "DLF Sikanderpur"
+            },
+            {
+                "index": 121,
+                "layout": "Elevated",
+                "text": "DLF Phase 2"
+            },
+            {
+                "index": 122,
+                "layout": "Elevated",
+                "text": "Vodaphone Belvedere Towers"
+            },
+            {
+                "index": 123,
+                "layout": "Elevated",
+                "text": "Indus Bank Cyber City"
+            },
+            {
+                "index": 124,
+                "layout": "Elevated",
+                "text": "Micromax Moulsari"
+            },
+            {
+                "index": 125,
+                "layout": "Elevated",
+                "text": "DLF Phase 3"
+            },
+            {
+                "index": 126,
+                "layout": "Underground",
+                "text": "ITO"
+            },
+            {
+                "index": 127,
+                "layout": "Underground",
+                "text": "Mandi House"
+            },
+            {
+                "index": 128,
+                "layout": "Underground",
+                "text": "Janpath"
+            },
+            {
+                "index": 129,
+                "layout": "Underground",
+                "text": "Central Secretariat"
+            },
+            {
+                "index": 130,
+                "layout": "Underground",
+                "text": "Khan Market"
+            },
+            {
+                "index": 131,
+                "layout": "Underground",
+                "text": "Jawaharlal Nehru Stadium"
+            },
+            {
+                "index": 132,
+                "layout": "Underground",
+                "text": "Jangpura"
+            },
+            {
+                "index": 133,
+                "layout": "Elevated",
+                "text": "Lajpat Nagar"
+            },
+            {
+                "index": 134,
+                "layout": "Elevated",
+                "text": "Moolchand"
+            },
+            {
+                "index": 135,
+                "layout": "Elevated",
+                "text": "Kailash Colony"
+            },
+            {
+                "index": 136,
+                "layout": "Elevated",
+                "text": "Nehru Place"
+            },
+            {
+                "index": 137,
+                "layout": "Elevated",
+                "text": "Kalkaji Mandir"
+            },
+            {
+                "index": 138,
+                "layout": "Elevated",
+                "text": "Govind Puri"
+            },
+            {
+                "index": 139,
+                "layout": "Elevated",
+                "text": "Okhla"
+            },
+            {
+                "index": 140,
+                "layout": "Elevated",
+                "text": "Jasola"
+            },
+            {
+                "index": 141,
+                "layout": "Elevated",
+                "text": "Sarita Vihar"
+            },
+            {
+                "index": 142,
+                "layout": "Elevated",
+                "text": "Mohan Estate"
+            },
+            {
+                "index": 143,
+                "layout": "Elevated",
+                "text": "Tughlakabad"
+            },
+            {
+                "index": 144,
+                "layout": "Elevated",
+                "text": "Badarpur"
+            },
+            {
+                "index": 145,
+                "layout": "Elevated",
+                "text": "Sarai"
+            },
+            {
+                "index": 146,
+                "layout": "Elevated",
+                "text": "N.H.P.C. Chowk"
+            },
+            {
+                "index": 147,
+                "layout": "Elevated",
+                "text": "Mewala Maharajpur"
+            },
+            {
+                "index": 148,
+                "layout": "Elevated",
+                "text": "Sector 28 Faridabad"
+            },
+            {
+                "index": 149,
+                "layout": "Elevated",
+                "text": "Badkal Mor"
+            },
+            {
+                "index": 150,
+                "layout": "Elevated",
+                "text": "Old Faridabad"
+        },
+            {
+                "index": 151,
+                "layout": "Elevated",
+                "text": "Neelam Chowk Ajronda"
+            },
+            {
+                "index": 152,
+                "layout": "Elevated",
+                "text": "Bata Chowk"
+            },
+            {
+                "index": 153,
+                "layout": "Elevated",
+                "text": "Escorts Mujesar"
+            },
+            {
+                "index": 154,
+                "layout": "At Grade",
+                "text": "Yamuna Bank"
+            },
+            {
+                "index": 155,
+                "layout": "Elevated",
+                "text": "Laxmi Nagar"
+            },
+            {
+                "index": 156,
+                "layout": "Elevated",
+                "text": "Nirman Vihar"
+            },
+            {
+                "index": 157,
+                "layout": "Elevated",
+                "text": "Preet Vihar"
+            },
+            {
+                "index": 158,
+                "layout": "Elevated",
+                "text": "Karkar Duma"
+            },
+            {
+                "index": 159,
+                "layout": "Elevated",
+                "text": "Anand Vihar"
+            },
+            {
+                "index": 160,
+                "layout": "Elevated",
+                "text": "Kaushambi"
+            },
+            {
+                "index": 161,
+                "layout": "Elevated",
+                "text": "Vaishali"
+            },
+            {
+                "index": 162,
+                "layout": "Elevated",
+             	"text": "Ashok Park Main"
+            },
+            {
+                "index": 163,
+                "layout": "Elevated",
+                "text": "Satguru Ram Singh Marg"
+            },
+            {
+                "index": 164,
+                "layout": "Elevated",
+                "text": "Kirti Nagar"
+            }
+        ]
+    }
+}
